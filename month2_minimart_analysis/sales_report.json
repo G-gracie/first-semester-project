@@ -1,0 +1,14 @@
+{
+    "total_products_sold": 28,
+    "most_popular_product": {
+        "name": "Notebook",
+        "quantity_sold": 10
+    },
+    "revenue_per_customer": {
+        "Grace": 179.48,
+        "Samuel": 99.0,
+        "Linda": 60.0,
+        "Ibrahim": 49.900000000000006,
+        "Ngozi": 29.25
+    }
+}
